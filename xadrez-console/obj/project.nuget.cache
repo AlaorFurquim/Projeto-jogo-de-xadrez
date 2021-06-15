@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "c2tOG3NOAbtpMCDTkW+QJmbxOCzouzzNBYX9uo2gdjXlAkOlttVSTzPC/pxUaGEH7g0LsEH0Zy9GacWGfIvoDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\xadrez-console\\xadrez-console\\xadrez-console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
