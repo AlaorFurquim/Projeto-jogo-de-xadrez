@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>xadrez-console</id>
+    <version>1.0.0</version>
+    <authors>xadrez-console</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Admin\source\repos\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.1\xadrez-console.runtimeconfig.json" target="lib\netcoreapp3.1\xadrez-console.runtimeconfig.json" />
+    <file src="C:\Users\Admin\source\repos\xadrez-console\xadrez-console\bin\Debug\netcoreapp3.1\xadrez-console.dll" target="lib\netcoreapp3.1\xadrez-console.dll" />
+  </files>
+</package>
